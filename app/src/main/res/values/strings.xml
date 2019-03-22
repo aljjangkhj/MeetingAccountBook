@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">모임 가계부</string>
+    <string name="app_version">V 1.0.0</string>
+    <string name="data_failed">데이터 오류</string>
+</resources>
